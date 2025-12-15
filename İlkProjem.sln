@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "İlkProjem", "İlkProjem\İlkProjem.csproj", "{DC8331B4-357A-480A-AF21-45C279AAC6D0}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OtobusOtomasyonSetup", "OtobusOtomasyonSetup\OtobusOtomasyonSetup.vdproj", "{C5A2B64D-1442-451D-B746-37D42CA04747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC8331B4-357A-480A-AF21-45C279AAC6D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC8331B4-357A-480A-AF21-45C279AAC6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC8331B4-357A-480A-AF21-45C279AAC6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC8331B4-357A-480A-AF21-45C279AAC6D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5A2B64D-1442-451D-B746-37D42CA04747}.Debug|Any CPU.ActiveCfg = Debug
+		{C5A2B64D-1442-451D-B746-37D42CA04747}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CC8CCD1-B732-41B2-9E53-75C99E7F06D6}
+	EndGlobalSection
+EndGlobal
